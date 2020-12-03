@@ -1,31 +1,31 @@
 ## Contents:
-1. [Introduction](#introduction)
+1. Introduction
 2. Complex Models Erode Boundaries
     1. Entanglement
     2. Correction Cascades 
     3. Undeclared Consumers
 3. Data Dependencies Cost More than Code Dependencies
-    3.1 Unstable Data Dependencies 
-    3.2 Underutilized Data Dependencies 
-    3.3 Static Analysis of Data Dependencies 
+    1. Unstable Data Dependencies 
+    2. Underutilized Data Dependencies 
+    3. Static Analysis of Data Dependencies 
 4. Feedback Loops 
-    4.1 Direct Feedback Loops
-    4.2 Hidden Feedback Loops
+    1. Direct Feedback Loops
+    2. Hidden Feedback Loops
 5. ML-Systems Anti-Patterns
-    5.1 Glue Code 
-    5.2 Pipeline Jungles 
-    5.3 Dead Experiment Code Paths
-    5.4 Abstraction Debt
-    5.5 Common Smells
+    1. Glue Code 
+    2. Pipeline Jungles 
+    3. Dead Experiment Code Paths
+    4. Abstraction Debt
+    5. Common Smells
 6. Configuration Debt
 7. Dealing with Changes in the External World
-    7.1 Fixed Thresholds in Dynamic Systems 
-    7.2 Monitoring and Testing
+    1. Fixed Thresholds in Dynamic Systems 
+    2. Monitoring and Testing
 8. Other Areas of ML-related Debt
-    8.1 Data Testing Debt
-    8.2 Reproducibility Debt
-    8.3 Process Management Debt 
-    8.4 Cultural Debt
+    1. Data Testing Debt
+    2. Reproducibility Debt
+    3. Process Management Debt 
+    4. Cultural Debt
 9. Conclusions: Measuring Debt and Paying it Off    
 
 ## 1. Introduction
